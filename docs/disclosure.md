@@ -21,3 +21,4 @@ The format, with an example (copy the shape, not the words):
 
 ## My log
 
+- W02 · none · Used for: nothing; I copied in my Week 1 proposal myself · Checked by: reading it on Github's main after the merge
