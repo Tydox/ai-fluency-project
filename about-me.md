@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
-Faculty: Chemical Engineering
+Name: Daniel M
+Faculty: Electrical and Computer Engineering
